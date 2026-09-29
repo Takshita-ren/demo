@@ -1,3 +1,7 @@
 Suhaana safar aur ye mausam haseen, suhaana safar aur ye mausam haseen. Hame dar ke ham kho na jaaye kahi
+<<<<<<< HEAD
 
 Pyaar hua ikraar hua hai pyaar se fir kyu darta hai dil. kahta hai dil rasta mushkil maloom nahi kaha manzil.
+=======
+Neele neele ambar par chand jab aaye, pyaar barsayem, hamko tarsaye. aisa koi saathi ho, aisa koi premi ho, pyaas dil ki bhuja jaaye.
+>>>>>>> cd30ec6 (AurImp)
